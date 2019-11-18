@@ -1,0 +1,27 @@
+{"listing":[
+    {
+      "id": 1,
+      "title": "Cat Tee Black T-Shirt",
+      "image": "/images/1.jpg",
+      "price": 150.00
+    },
+    {
+      "id": 2,
+      "title": "Dark Thug Blue-Navy T-Shirt",
+      "image": "/images/2.jpg",
+      "price": 75.50  
+    },
+    {
+      "id": 3,
+      "title": "Sphynx Tie Dye Wine T-Shirt",
+      "image": "/images/3.jpg",
+      "price": 60.00    
+    },
+    {
+      "id": 4,
+      "title": "Sphynx Tie Dye Grey T-Shirt",
+      "image": "/images/4.jpg",
+      "price": 100.00
+    }
+]
+}
